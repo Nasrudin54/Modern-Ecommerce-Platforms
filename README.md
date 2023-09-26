@@ -13,7 +13,7 @@ Our e-commerce website powered by WordPress and WooCommerce makes shopping for c
 In the following section We'll dive into the project's methodology, technology, and strategy. The goal was to create an online cover store that was attractive and easy to use. Through this project, Daria collection reinforces its commitment to promoting the love of literature in the digital age.
 
 # 2. Software and Tools Used
-2.1 Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the Boo Shop E-Commerce Website before deployment.
+2.1 Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the Daria collection shop E-Commerce Website before deployment.
 
 2.2 WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
 
