@@ -44,6 +44,8 @@ In the following section We'll dive into the project's methodology, technology, 
 ![Digram img](img/11.png)
 ![Digram img](img/12.png)
 ![Digram img](img/13.png)
+## Statement
+![Digram img](img/15.png)
 # 4. BPMN Diagram
 ![Digram img](img/14.png)
 
