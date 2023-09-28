@@ -31,7 +31,7 @@ In the following section We'll dive into the project's methodology, technology, 
 ## My Account
 
 ## Home
-
+![Digram img](img/1.png)
 ## Shop
 
 ## Checkout
