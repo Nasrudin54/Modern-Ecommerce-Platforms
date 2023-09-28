@@ -29,15 +29,23 @@ In the following section We'll dive into the project's methodology, technology, 
 
 # 3. Visual Overview
 ## My Account
-
-## Home
 ![Digram img](img/1.png)
+## Home
+![Digram img](img/3.png)
+![Digram img](img/4.png)
+![Digram img](img/5.png)
 ## Shop
-
+![Digram img](img/6.png)
+![Digram img](img/7.png)
+![Digram img](img/8.png)
+![Digram img](img/9.png)
 ## Checkout
-
+![Digram img](img/10.png)
+![Digram img](img/11.png)
+![Digram img](img/12.png)
+![Digram img](img/13.png)
 # 4. BPMN Diagram
-
+![Digram img](img/14.png)
 
 
 
