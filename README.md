@@ -27,5 +27,17 @@ In the following section We'll dive into the project's methodology, technology, 
 
 2.7 Chaty: Chaty is a Floating Chat Widget plugin that user can click on link to get more contact with the website.
 
+# 3. Visual Overview
+## My Account
+
+## Home
+
+## Shop
+
+## Checkout
+
+# 4. BPMN Diagram
+
+
 
 
