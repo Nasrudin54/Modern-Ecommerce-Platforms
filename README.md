@@ -59,6 +59,9 @@ This BPMN diagram show my E-Commerce Website processes, showcasing key interacti
   - Delivery
 ### Customer pool
 ![Digram img](img/costume.png).
+-Start with the green dot. It marks the beginning of the customer journey on the platform.
+-Select Products: The customer selects the desired products from the available options.
+
 ![Digram img](img/BPMNweb.png).
 ![Digram img](img/BPMNadmin.png).
 ![Digram img](img/deri.png).
