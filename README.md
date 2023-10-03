@@ -12,42 +12,46 @@ Our e-commerce website powered by WordPress and WooCommerce makes shopping for c
 
 In the following section We'll dive into the project's methodology, technology, and strategy. The goal was to create an online cover store that was attractive and easy to use. Through this project, Daria collection reinforces its commitment to promoting the love of literature in the digital age.
 
-# 2. Software and Tools Used
-2.1 Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the Daria collection shop E-Commerce Website before deployment.
+# 2. Method
+  At first, we had to download Laragon and Runaragon in order to log in to Wordpress. Once successfully logged in, it will open Wordpress for us. There won't be much there. Everything we want to do or need we have to download ourselves. Can be downloaded within Wordpress The first thing we need to do is our website page. In making website pages, we have 2 routes to choose from. First, design it yourself. Second, find someone else's theme and turn it into your website page. I chose to find someone else's theme to use. I chose the Shope theme version 1.0.1 by SwiftStore on their website page. His theme is selling clothes. and choose a theme to change to make a website selling veils We have chosen a theme and the next step is to decorate our website. What do you want it to be like? Whatever you want, we can do as we want. We finished decorating everything. We have to put in the products we want and set the right price. Next we will add the plugin. First we need to explain what a plugin is. Plugins are WordPress extensions in the form of scripts that improve performance. and expand the ability to make a simple website into a complete website More suitable for use for each purpose
 
-2.2 WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
+# 3. Software and Tools Used
+3.1 Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the Daria collection shop E-Commerce Website before deployment.
 
-2.3 WooCommerce: WooCommerce is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
+3.2 WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
 
-2.4 Elementor: Elementor Elementor is a versatile page builder plugin employed to streamline the design process. It allows for easy customization of layouts and visual elements, enhancing the website's aesthetics and functionality.
+3.3 WooCommerce: WooCommerce is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
 
-2.5 PDF Invoices & Packing Slips for WooCommerce: PDF Invoices & Packing Slips for WooCommerce is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
+3.4 Elementor: Elementor Elementor is a versatile page builder plugin employed to streamline the design process. It allows for easy customization of layouts and visual elements, enhancing the website's aesthetics and functionality.
 
-2.6 Contact Form 7: Conract From 7 can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup. The form supports Ajax-powered submitting, CAPTCHA, Akismet spam filtering and so on.
+3.5 PDF Invoices & Packing Slips for WooCommerce: PDF Invoices & Packing Slips for WooCommerce is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
+
+3.6 Contact Form 7: Conract From 7 can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup. The form supports Ajax-powered submitting, CAPTCHA, Akismet spam filtering and so on.
 
 2.7 Chaty: Chaty is a Floating Chat Widget plugin that user can click on link to get more contact with the website.
 
-# 3. Visual Overview
-## My Account
-![Digram img](img/1.png)
-## Home
+# 4. Visual Overview
+### HomePage
 ![Digram img](img/3.png)
 ![Digram img](img/4.png)
 ![Digram img](img/5.png)
-## Shop
+### Shoppage
 ![Digram img](img/6.png)
 ![Digram img](img/7.png)
 ![Digram img](img/8.png)
 ![Digram img](img/9.png)
-## Checkout
+### Checkout
 ![Digram img](img/10.png)
 ![Digram img](img/11.png)
 ![Digram img](img/12.png)
 ![Digram img](img/13.png)
-## Statement
+### Statement
 ![Digram img](img/15.png)
-# 4. BPMN Diagram
-![Digram img](img/14.png)
+
+# BPMN Diagram
+![Digram img](img/15.png)
+
+
 
 
 
