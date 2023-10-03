@@ -58,7 +58,7 @@ This BPMN diagram show my E-Commerce Website processes, showcasing key interacti
   - Admin
   - Delivery
 ### Customer pool
-![Digram img](img/BPMN (costume).png).
+![Digram img](img/.png).
 
 
 
