@@ -49,9 +49,16 @@ In the following section We'll dive into the project's methodology, technology, 
 ![Digram img](img/15.png)
 
 # BPMN Diagram
-![Digram img](img/15.png)
+![Digram img](img/BPMN1.png)
+This BPMN diagram show my E-Commerce Website processes, showcasing key interactions and workflows that enhance the platform's user-friendly online Hiyab shop experience.
 
-
+###  All Pools in BPMN
+  - Customer
+  - Website
+  - Admin
+  - Delivery
+### Customer pool
+![Digram img](img/BPMN (costume).png).
 
 
 
