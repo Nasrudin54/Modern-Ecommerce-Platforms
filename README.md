@@ -136,7 +136,6 @@ It includes entering product details, assigning categories, and setting pricing.
 ![Digram img](img/deri.png)
 
 Delivery process
-
 - First delivery taking customer product from admin.
 - And put in in their system
 - Make a pacel number (Give to admin)
