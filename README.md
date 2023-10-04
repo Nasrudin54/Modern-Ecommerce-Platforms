@@ -28,7 +28,9 @@ In the following section We'll dive into the project's methodology, technology, 
 
 3.6 Contact Form 7: Conract From 7 can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup. The form supports Ajax-powered submitting, CAPTCHA, Akismet spam filtering and so on.
 
-2.7 Chaty: Chaty is a Floating Chat Widget plugin that user can click on link to get more contact with the website.
+3.7 Chaty: Chaty is a Floating Chat Widget plugin that user can click on link to get more contact with the website.
+
+3.8 Conclusion: The abstract appears to be a work in progress and may need further refinement. It provides a general overview of the project's goals, methods, and tools used but lacks specific details and visual representation of key elements. It would be helpful to include actual images or diagrams, provide more detailed steps in the methodology, and clarify the BPMN diagram's content for a more comprehensive understanding of the project. Additionally, you may want to add a conclusion summarizing the significance or expected outcomes of the project.
 
 # 4. Visual Overview
 ### HomePage
