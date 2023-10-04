@@ -60,32 +60,32 @@ This BPMN diagram show my E-Commerce Website processes, showcasing key interacti
   - Admin
   - Delivery
 ### Customer pool
-![Digram img](img/costume.png).
+![Digram img](img/costume.png)
 
 -Start with the green dot. It marks the beginning of the customer journey on the platform.
 
 -Select Products: The customer selects the desired products from the available options.
 
-![Digram img](img/ใส่ตะกร้อ.png).
+![Digram img](img/ใส่ตะกร้อ.png)
 - Add product to cart: After selecting the product step The customer checks in to the cart. If the customer is satisfied with the selected product They will go through the payment process. If the customer still hesitates in choosing a product, the customer can cancel the product or go back and select it again.
 
-![Digram img](img/เช็คก่อนจ่าย.png).
+![Digram img](img/เช็คก่อนจ่าย.png)
 
 -  Checkout Process: The process to Checkout the product. (The customer fill their shipping detail.)
 -  Fill the shipping detail: The customer fill their shipping detail.
 
-![Digram img](img/ใส่ที่อยู่.png).
+![Digram img](img/ใส่ที่อยู่.png)
 
 -  Identify payment method: customer choose the payment method. In my website there are 2 methods: bank transfer and cash payment.
 
-![Digram img](img/เลือกการส่ง.png).
+![Digram img](img/เลือกการส่ง.png)
 
 - Payment Process: There are 2 methods to choose from. The first method is cash on delivery. The second method is a bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer Customers can send proof of transfer right away. We will have a place to send evidence to you. If the customer pays on delivery, the customer waits to pay when the driver comes to deliver the product.
   
-  ![Digram img](img/ที่ใส่สลิป.png).
+  ![Digram img](img/ที่ใส่สลิป.png)
 
 ### Website pool
-![Digram img](img/BPMNweb.png).
+![Digram img](img/BPMNweb.png)
 
 For the website to be a center between customers and system administrators.
 Starting from the format
@@ -99,12 +99,12 @@ Starting from the format
 - The Fourth is to respond to customer chats.
 
 ###  Admin pool
-![Digram img](img/BPMNadmin.png).
+![Digram img](img/BPMNadmin.png)
 - Add product: This task represents the process of adding a new product to your e-commerce store's catalog.
 
 It includes entering product details, assigning categories, and setting pricing.
 
-![Digram img](img/17Addproduct.png).
+![Digram img](img/17Addproduct.png)
 
 - Publish Product: This task involves making the approved product visible to customers on the website. It ensures that the product is included in relevant search results and categories.
 
@@ -116,9 +116,15 @@ It includes entering product details, assigning categories, and setting pricing.
 
 - Inventory Management :This task involves monitoring and managing product inventory levels. Admins may use this task to adjust stock levels, track product availability, and reorder items when necessary.
 
-  ![Digram img](img/19UpdateProduct.png).
+  ![Digram img](img/21.png)
+
+- Check order : Admin will check the order list to see if there are any new orders or not. If there is a new order, the admin will go to the next task.
+- Check slip and confirm order process: This process admin will check the slip of payment and confirm order.
+
+  ![Digram img](img/20CheckorderrandCheckslip.png)
 
 
-![Digram img](img/deri.png).
+
+![Digram img](img/deri.png)
 
 
