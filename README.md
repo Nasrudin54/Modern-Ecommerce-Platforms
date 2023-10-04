@@ -112,7 +112,7 @@ It includes entering product details, assigning categories, and setting pricing.
 
 -  Remove Product: When a product is discontinued or permanently out of stock, this task is used to remove the product from the website. It ensures customers can no longer purchase the item.
 
-![Digram img](img/19UpdateProduct.png).
+![Digram img](img/19UpdateProduct.png)
 
 - Inventory Management :This task involves monitoring and managing product inventory levels. Admins may use this task to adjust stock levels, track product availability, and reorder items when necessary.
 
@@ -141,4 +141,12 @@ Delivery process
 - Make a pacel number (Give to admin)
 - And sent product to customer (receive money from customer for who choes cash on deliver)
 
+### Conclusion
+  
+  Conclusion: The abstract appears to be a work in progress and may need further refinement. It provides a general overview of the project's goals, methods, and tools used but lacks specific details and visual representation of key elements. It would be helpful to include actual images or diagrams, provide more detailed steps in the methodology, and clarify the BPMN diagram's content for a more comprehensive understanding of the project. Additionally, you may want to add a conclusion summarizing the significance or expected outcomes of the project.
+
+### Author
+Nasrudin yusof
+
+ID 621431040
 
