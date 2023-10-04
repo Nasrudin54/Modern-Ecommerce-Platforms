@@ -104,6 +104,21 @@ Starting from the format
 
 It includes entering product details, assigning categories, and setting pricing.
 
+![Digram img](img/17Addproduct.png).
+
+- Publish Product: This task involves making the approved product visible to customers on the website. It ensures that the product is included in relevant search results and categories.
+
+- Update Product Information: This task allows admins to modify existing product details, such as descriptions, prices, or images. It's used for maintaining accurate product information.
+
+-  Remove Product: When a product is discontinued or permanently out of stock, this task is used to remove the product from the website. It ensures customers can no longer purchase the item.
+
+![Digram img](img/19UpdateProduct.png).
+
+- Inventory Management :This task involves monitoring and managing product inventory levels. Admins may use this task to adjust stock levels, track product availability, and reorder items when necessary.
+
+  ![Digram img](img/19UpdateProduct.png).
+
+
 ![Digram img](img/deri.png).
 
 
