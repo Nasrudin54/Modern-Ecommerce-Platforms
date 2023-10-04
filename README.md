@@ -82,8 +82,28 @@ This BPMN diagram show my E-Commerce Website processes, showcasing key interacti
 
 - Payment Process: There are 2 methods to choose from. The first method is cash on delivery. The second method is a bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer Customers can send proof of transfer right away. We will have a place to send evidence to you. If the customer pays on delivery, the customer waits to pay when the driver comes to deliver the product.
   
+  ![Digram img](img/ที่ใส่สลิป.png).
+
+### Website pool
 ![Digram img](img/BPMNweb.png).
+
+For the website to be a center between customers and system administrators.
+Starting from the format
+
+- The first is product information that allows customers to choose.
+
+- The second is to receive customer orders before the data is sent to the backend.
+
+- The third is to receive the slip from the customer who has chosen to transfer before the data is sent to the backend.
+
+- The Fourth is to respond to customer chats.
+
+###  Admin pool
 ![Digram img](img/BPMNadmin.png).
+- Add product: This task represents the process of adding a new product to your e-commerce store's catalog.
+
+It includes entering product details, assigning categories, and setting pricing.
+
 ![Digram img](img/deri.png).
 
 
