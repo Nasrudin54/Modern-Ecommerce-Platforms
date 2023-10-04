@@ -38,10 +38,12 @@ In the following section We'll dive into the project's methodology, technology, 
 ### Shoppage
 ![Digram img](img/6.png)
 ![Digram img](img/7.png)
+
 ![Digram img](img/8.png)
 ![Digram img](img/9.png)
 ### Checkout
 ![Digram img](img/10.png)
+
 ![Digram img](img/11.png)
 ![Digram img](img/12.png)
 ![Digram img](img/13.png)
@@ -59,9 +61,25 @@ This BPMN diagram show my E-Commerce Website processes, showcasing key interacti
   - Delivery
 ### Customer pool
 ![Digram img](img/costume.png).
+
 -Start with the green dot. It marks the beginning of the customer journey on the platform.
+
 -Select Products: The customer selects the desired products from the available options.
 
+![Digram img](img/ใส่ตะกร้อ.png).
+- Add product to cart: After selecting the product step The customer checks in to the cart. If the customer is satisfied with the selected product They will go through the payment process. If the customer still hesitates in choosing a product, the customer can cancel the product or go back and select it again.
+
+![Digram img](img/เช็คก่อนจ่าย.png).
+
+-  Checkout Process: The process to Checkout the product. (The customer fill their shipping detail.)
+-  Fill the shipping detail: The customer fill their shipping detail.
+
+![Digram img](img/ใส่ที่อยู่.png).
+
+-  Identify payment method: customer choose the payment method. In my website there are 2 methods: bank transfer and cash payment.
+
+![Digram img](img/เลือกการส่ง.png).
+  
 ![Digram img](img/BPMNweb.png).
 ![Digram img](img/BPMNadmin.png).
 ![Digram img](img/deri.png).
