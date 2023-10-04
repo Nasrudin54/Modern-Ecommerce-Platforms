@@ -121,7 +121,7 @@ It includes entering product details, assigning categories, and setting pricing.
 - Check order : Admin will check the order list to see if there are any new orders or not. If there is a new order, the admin will go to the next task.
 - Check slip and confirm order process: This process admin will check the slip of payment and confirm order.
 
-  ![Digram img](img/20CheckorderrandCheckslip.png)
+  ![Digram img](img/22.png)
 
 
 
