@@ -123,8 +123,23 @@ It includes entering product details, assigning categories, and setting pricing.
 
   ![Digram img](img/22.png)
 
+- Correct gataway : when admin check correctness about payment. If correct, It will go to Check Stock process. If not correct, It will cancel the order.
 
+- Check Stock process : admin will check stock. If have product enough, It will go to next process (Prepare order for shipping process). If out of stock, the order will cancel.
+
+- Prepare order for shipping process : this task is to prepare product for shipping or pack items properly for delivery.
+
+- Ship order to shipping company process :This process is about sent product to shipping company.
+
+### Delivery pool
 
 ![Digram img](img/deri.png)
+
+Delivery process
+
+- First delivery taking customer product from admin.
+- And put in in their system
+- Make a pacel number (Give to admin)
+- And sent product to customer (receive money from customer for who choes cash on deliver)
 
 
