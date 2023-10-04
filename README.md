@@ -85,7 +85,8 @@ This BPMN diagram show my E-Commerce Website processes, showcasing key interacti
 - Payment Process: There are 2 methods to choose from. The first method is cash on delivery. The second method is a bank transfer. Customers can pay at their convenience. (Destination or bank transfer) for bank transfer Customers can send proof of transfer right away. We will have a place to send evidence to you. If the customer pays on delivery, the customer waits to pay when the driver comes to deliver the product.
   
   ![Digram img](img/ที่ใส่สลิป.png)
- ![Digram img](img/30.png)
+  ![Digram img](img/30.png)
+  
 ### Website pool
 ![Digram img](img/BPMNweb.png)
 
